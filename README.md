@@ -17,22 +17,7 @@
 </h2>
 </div>
 
-This repository is a combination of all projects that I have done during my studies at the course of programing 3 at <a href="https://www.linkedin.com/school/jala-university">jala university</a> the objetive is have a single repository that contains all the projects that I have done during the course. And maintain a order to the revision of the projects.
-<br>
-<br>
-
-
-<div align="center">
-<h2>
-🤝 Contributing
-</h2>
-</div>
-
-
-We welcome contributions from the community. Before you start working with the `oracle one education`, please read our [contribution guidelines](/Contributing.md) to understand our development process, how to propose bug fixes and improvements, and how to build and test your changes to the mega-project.
-
-
-
+This repository is a combination of all projects that I have done during my studies at the course of programing 3 at <a href="https://www.linkedin.com/school/jala-university">jala university</a> the objetive is have a single repository that contains all the projects that I have done during the course. And maintain a order to the revision of the projects. the following table describes the order of the projects and if u click on the image u will be redirected to the readme of the project to learn more about it.
 <br>
 <br>
 
@@ -52,6 +37,23 @@ We welcome contributions from the community. Before you start working with the `
 </tr> 
 
 </table>
+
+
+<div align="center">
+<h2>
+🤝 Contributing
+</h2>
+</div>
+
+
+We welcome contributions from the community. Before you start working with the `oracle one education`, please read our [contribution guidelines](/Contributing.md) to understand our development process, how to propose bug fixes and improvements, and how to build and test your changes to the mega-project.
+
+
+
+<br>
+<br>
+
+
 
 
 <div align="center">
