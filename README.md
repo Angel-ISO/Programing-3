@@ -17,7 +17,7 @@
 </h2>
 </div>
 
-This repository is a combination of all projects that I have done during my studies at the course of programing 3 at <a href="https://www.linkedin.com/school/jala-university">jala university</a> the objetive is have a single repository that contains all the projects that I have done during the course. And maintain a order to the revision of the projects. the following table describes the order of the projects and if u click on the image u will be redirected to the readme of the project to learn more about it.
+This repository is a combination of all projects that I have done during my studies at the course of programing 3 at <a href="https://www.linkedin.com/school/jala-university">jala university</a> the objetive is have a single repository that contains all the projects that I have done during the course. And maintain a order to the revision of the projects. the following table describes the order of the projects and if u click on the image u will be redirected to the readme of the project to learn more about it:
 <br>
 <br>
 
@@ -26,7 +26,7 @@ This repository is a combination of all projects that I have done during my stud
 <tr>
 
 <td width="25%" align="center">
-  <a href="https://github.com/Angel-ISO/oracleOneEducation/tree/main/Lab1">
+  <a href="https://github.com/Angel-ISO/Programing-3/tree/main/Lab1">
     <img src="./media/projects/Literature.png" alt="Jala Conversor" width="100%">
   </a>
   <a href="">
