@@ -27,7 +27,7 @@ This repository is a combination of all projects that I have done during my stud
 
 <td width="25%" align="center">
   <a href="https://github.com/Angel-ISO/Programing-3/tree/main/Lab1">
-    <img src="./media/projects/Literature.png" alt="Jala Conversor" width="100%">
+    <img src="./media/Conversor.png" alt="Jala Conversor" width="100%">
   </a>
   <a href="">
      <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
