@@ -43,49 +43,43 @@ public class Carro
 ## Metodos
 
 ```csharp
-public void DividirYUnir()
-{
-    char[] marcaArray = Marca.ToCharArray();
-    char[] modeloArray = Modelo.ToCharArray();
-
-    Console.WriteLine("\nDividir y unir marca y modelo:");
-    Console.WriteLine($"Array de caracteres de '{Marca}': {string.Join(" ", marcaArray)}");
-    Console.WriteLine($"Array de caracteres de '{Modelo}': {string.Join(" ", modeloArray)}");
-
-    string marcaUnida = new string(marcaArray);
-    string modeloUnido = new string(modeloArray);
-
-    Console.WriteLine($"Resultado reunido: {marcaUnida} {modeloUnido}");
-}
+  public string DividirYUnir()
+        {
+            string concatenado = $"{Marca} {Modelo}";
+            char[] caracteres = concatenado.ToCharArray(); 
+            Console.WriteLine($"Array de caracteres de '{concatenado}':");
+            foreach (char c in caracteres)
+            {
+                Console.Write(c + " ");
+            }
+            Console.WriteLine();
+            return new string(caracteres);
+        } 
 ```
 
 ```csharp
 
 
-public void ObtenerSubstrings(int length)
-{
-    Console.WriteLine("\nSubstrings de la marca:");
-    for (int i = 0; i <= Marca.Length - length; i++)
-    {
-        Console.WriteLine(Marca.Substring(i, length));
-    }
+private List<string> ObtenerSubstrings(string input, int longitud)
+        {
+            List<string> substrings = new List<string>();
+            for (int i = 0; i <= input.Length - longitud; i++)
+            {
+                substrings.Add(input.Substring(i, longitud));
+            }
+            return substrings;
+        }
 
-    Console.WriteLine("\nSubstrings del modelo:");
-    for (int i = 0; i <= Modelo.Length - length; i++)
-    {
-        Console.WriteLine(Modelo.Substring(i, length));
-    }
-}
+
 ```
 
 ```csharp
 
 
-public void BuscarEnModelo(string searchTerm)
-{
-    bool found = Modelo.Contains(searchTerm, StringComparison.OrdinalIgnoreCase);
-    Console.WriteLine($"\n¿Se encontró '{searchTerm}' en el modelo? {found}");
-}
+public bool BuscarEnModelo(string busqueda)
+        {
+            return Modelo.Contains(busqueda, StringComparison.OrdinalIgnoreCase);
+        }
 ```
 
 ## Como se llama o funciona?
