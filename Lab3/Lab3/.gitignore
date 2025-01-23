@@ -379,6 +379,11 @@ MigrationBackup/
 FodyWeavers.xsd
 
 # VS Code files for those working on multiple tools
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
 *.code-workspace
 
 # Local History for Visual Studio Code
@@ -393,6 +398,8 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
-temp_auto_push.bat
-temp_interactive_push.bat
-branch_structure.json
+
+# Single Target Config
+solution-config.props
+# Publish Profiles
+!**/Properties/PublishProfiles/*.pubxml

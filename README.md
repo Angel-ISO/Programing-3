@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./media/logo-jala-univerisity.png" alt="Logo" height="80">
+  <img src="./media/logo-jala-univerisity.png" alt="Logo" height="100">
   <h2>
     Programing 3 Repository by Angel Gabriel Ortega
   </h2>
@@ -43,6 +43,16 @@ This repository is a combination of all projects that I have done during my stud
   </a>
 </td>
 
+<td width="25%" align="center">
+  <a href="https://github.com/Angel-ISO/Programing-3/tree/main/Lab3">
+    <img src="./media/DelegatesAndEvents.png" alt="Jala Conversor" width="100%">
+  </a>
+  <a href="">
+     <img src="https://img.shields.io/badge/Not%20Deployed-FF0000?style=for-the-badge&logo=git&logoColor=white" alt="Not Deployed">
+  </a>
+</td>
+
+
 </tr> 
 
 </table>
@@ -55,7 +65,7 @@ This repository is a combination of all projects that I have done during my stud
 </div>
 
 
-We welcome contributions from the community. Before you start working with the `oracle one education`, please read our [contribution guidelines](/Contributing.md) to understand our development process, how to propose bug fixes and improvements, and how to build and test your changes to the mega-project.
+We welcome contributions from the community. Before you start working with the `jala programing-3`, please read our [contribution guidelines](/Contributing.md) to understand our development process, how to propose bug fixes and improvements, and how to build and test your changes to the mega-project.
 
 
 
